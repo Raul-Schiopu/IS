@@ -1,0 +1,9 @@
+1) Programul returneaza q = p + 1
+Preconditie : r - p > 1
+Postconditie : p < q < r
+
+
+2) q: p + 2 nu respecta neaparat postconditia q = 2, r = 3
+
+3) r - p >= 1 => r poate fi mai mare decat p cu 1.
+p = 2 si r = 3 nu asigura postconditia
